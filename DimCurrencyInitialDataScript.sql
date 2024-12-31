@@ -1,3 +1,5 @@
+INSERT [Dimension].[DimCurrency] ([Id], [Code], [Name], [Symbol]) VALUES (0, N'N/A', N'Unknown', N'N/A')
+GO
 INSERT [Dimension].[DimCurrency] ([Id], [Code], [Name], [Symbol]) VALUES (1, N'AED', N'United Arab Emirates Dirham', N'د.إ')
 GO
 INSERT [Dimension].[DimCurrency] ([Id], [Code], [Name], [Symbol]) VALUES (2, N'AFN', N'Afghan Afghani', N'؋')
@@ -367,6 +369,4 @@ GO
 INSERT [Dimension].[DimCurrency] ([Id], [Code], [Name], [Symbol]) VALUES (10007, N'VES', N'Venezuelan bol&iacute;var', N'Bs.')
 GO
 INSERT [Dimension].[DimCurrency] ([Id], [Code], [Name], [Symbol]) VALUES (10010, N'unk', N'unk', N'unknown')
-GO
-SET IDENTITY_INSERT [Dimension].[DimCurrency] OFF
 GO
