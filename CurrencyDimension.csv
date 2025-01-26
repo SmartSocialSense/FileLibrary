@@ -1,187 +1,187 @@
-﻿Id,Code,Name,Symbol
-0,N/A,Unknown,N/A
-1,AED,United Arab Emirates Dirham,د.إ
-2,AFN,Afghan Afghani,؋
-3,ALL,Albanian Lek,L
-4,AMD,Armenian Dram,֏
-5,ANG,Netherlands Antillean Guilder,ƒ
-6,AOA,Angolan Kwanza,Kz
-7,ARS,Argentine Peso,$
-8,AUD,Australian Dollar,$
-9,AWG,Aruban Florin,ƒ
-10,AZN,Azerbaijani Manat,₼
-11,BAM,Bosnia and Herzegovina Convertible Mark,KM
-12,BBD,Barbadian Dollar,$
-13,BDT,Bangladeshi Taka,৳
-14,BGN,Bulgarian Lev,лв
-15,BHD,Bahraini Dinar,د.ب
-16,BIF,Burundian Franc,FBu
-17,BMD,Bermudian Dollar,$
-18,BND,Brunei Dollar,$
-19,BOB,Bolivian Boliviano,Bs
-20,BRL,Brazilian Real,R$
-21,BSD,Bahamian Dollar,$
-22,BTC,Bitcoin ,฿
-23,BTN,Bhutanese Chhertum,Ch
-24,BWP,Botswana Pula,P
-25,BYR,Belarusian Ruble,Br
-26,BZD,Belize Dollar,$
-27,CAD,Canadian Dollar,$
-28,CDF,Congolese Franc,FC
-29,CHF,Swiss Franc,CHF
-30,CLP,Chilean Peso,$
-31,CNY,Chinese Renminbi,¥
-32,COP,Colombian Peso,$
-33,CRC,Costa Rican Colón,₡
-34,CUC,Cuban Convertible Peso,$
-35,CUP,Cuban Peso,$
-36,CVE,Cape Verdean Escudo,Esc
-37,CZK,Czech Koruna,Kč
-38,DJF,Djiboutian Franc,Fdj
-39,DKK,Danish Krone,kr
-40,DOP,Dominican Peso,$
-41,DZD,Algerian Dinar,د.ج
-42,EGP,Egyptian Pound,£
-43,ERN,Eritrean Nakfa,Nfk
-44,ETB,Ethiopian Birr,Br
-45,EUR,Euro,€
-46,FJD,Fijian Dollar,$
-47,FKP,Falkland Islands Pound,£
-48,GBP,British Pound,£
-49,GEL,Georgian Lari,ლ
-50,GGP,Guernsey Pound,£
-51,GHS,Ghanaian Cedi,₵
-52,GIP,Gibraltar Pound,£
-53,GMD,Gambian Dalasi,D
-54,GNF,Guinean Franc,FG
-55,GTQ,Guatemalan Quetzal,Q
-56,GYD,Guyanese Dollar,$
-57,HKD,Hong Kong Dollar,$
-58,HNL,Honduran Lempira,L
-59,HRK,Croatian Kuna,kn
-60,HTG,Haitian Gourde,G
-61,HUF,Hungarian Forint,Ft
-62,IDR,Indonesian Rupiah,Rp
-63,ILS,Israeli Shekel,₪
-64,IMP,Manx Pound,£
-65,INR,Indian Rupee,₹
-66,IQD,Iraqi Dinar,د.ع
-67,IRR,Iranian Rial,﷼
-68,ISK,Icelandic Króna,kr
-69,JEP,Jersey Pound,£
-70,JMD,Jamaican Dollar,$
-71,JOD,Jordanian Dinar,د.أ
-72,JPY,Japanese Yen,¥
-73,KES,Kenyan Shilling,Ksh
-74,KGS,Kyrgyzstani Som,с
-75,KHR,Cambodian Riel,៛
-76,KMF,Comorian Franc,FC
-77,KPW,North Korean Won,₩
-78,KRW,South Korean Won,₩
-79,KWD,Kuwaiti Dinar,د.ك
-80,KYD,Cayman Islands Dollar,$
-81,KZT,Kazakhstani Tenge,₸
-82,LAK,Lao Kip,₭
-83,LBP,Lebanese Pound,ل.ل
-84,LKR,Sri Lankan Rupee,₨
-85,LRD,Liberian Dollar,$
-86,LSL,Lesotho Loti,L
-87,LYD,Libyan Dinar,ل.د
-88,MAD,Moroccan Dirham,د.م
-89,MDL,Moldovan Leu,L
-90,MGA,Malagasy Ariary,Ar
-91,MKD,Macedonian Denar,ден
-92,MMK,Myanmar Kyat,K
-93,MNT,Mongolian Tögrög,₮
-94,MOP,Macanese Pataca,MOP
-95,MRO,Mauritanian Ouguiya,UM
-96,MUR,Mauritian Rupee,₨
-97,MVR,Maldivian Rufiyaa,ރ
-98,MWK,Malawian Kwacha,MK
-99,MXN,Mexican Peso,$
-100,MYR,Malaysian Ringgit,RM
-101,MZN,Mozambican Metical,MT
-102,NAD,Namibian Dollar,$
-103,NGN,Nigerian Naira,₦
-104,NIO,Nicaraguan Córdoba,C$
-105,NOK,Norwegian Krone,kr
-106,NPR,Nepalese Rupee,₨
-107,NZD,New Zealand Dollar,$
-108,OMR,Omani Rial,ر.ع
-109,PAB,Panamanian Balboa,B/.
-110,PEN,Peruvian Sol,S/.
-111,PGK,Papua New Guinean Kina,K
-112,PHP,Philippine Peso,₱
-113,PKR,Pakistani Rupee,₨
-114,PLN,Polish Zloty,zł
-115,PRB,Transnistrian Ruble,р.
-116,PYG,Paraguayan Guarani,₲
-117,QAR,Qatari Riyal,ر.ق
-118,RON,Romanian Leu,lei
-119,RSD,Serbian Dinar,дин
-120,RUB,Russian Ruble,₽
-121,RWF,Rwandan Franc,FRw
-122,SAR,Saudi Riyal,ر.س
-123,SBD,Solomon Islands Dollar,$
-124,SCR,Seychellois Rupee,₨
-125,SDG,Sudanese Pound,ج.س
-126,SEK,Swedish Krona,kr
-127,SGD,Singapore Dollar,$
-128,SHP,Saint Helena Pound,£
-129,SLL,Sierra Leonean Leone,Le
-130,SOS,Somali Shilling,S
-131,SRD,Surinamese Dollar,$
-132,SSP,South Sudanese Pound,£
-133,STD,São Tomé and Principe Dobra,Db
-134,SYP,Syrian Pound,ل.س
-135,SZL,Swazi Lilangeni,L
-136,THB,Thai Baht,฿
-137,TJS,Tajikistani Somoni,ЅМ
-138,TMT,Turkmenistan Manat,m
-139,TND,Tunisian Dinar,د. ت
-140,TOP,Tongan Pa?anga,T$
-141,TRY,Turkish Lira,₺
-142,TTD,Trinidad and Tobago Dollar,$
-143,TWD,New Taiwan Dollar,$
-144,TZS,Tanzanian Shilling,TSh
-145,UAH,Ukrainian Hryvnia,₴
-146,UGX,Ugandan Shilling,USh
-147,USD,United States Dollar,$
-148,USN,United States Dollar (next day),$
-149,USS,United States Dollar (same day),$
-150,USDT,United States Dollar (Tether),$
-151,USX,United States Dollar (XAU),$
-152,UYI,Uruguay Peso en Unidades Indexadas,$
-153,UYU ,Uruguayan Peso,$
-154,UZS,Uzbekistan Som,сўм
-155,VEF,Venezuelan Bolivar,Bs
-156,VND,Vietnamese Dong,₫
-157,VUV,Vanuatu Vatu,VT
-158,WST,Samoan Tala,T
-159,XAF,Central African CFA Franc,FCFA
-160,XAG,Silver Ounce,oz t
-161,XAU,Gold Ounce,oz t
-162,XBA,European Composite Unit,EURCO
-163,XBB,European Monetary Unit,EMT
-164,XBC,European Unit of Account (XBC),EU
-165,XBD,European Unit of Account (XBD),EU
-166,XCD,East Caribbean Dollar,$
-167,XDR,Special Drawing Rights,SDR
-168,XOF,West African CFA Franc,FCFA
-169,XPD,Palladium Ounce,oz t
-170,XPF,CFP Franc,₣
-171,XPT,Platinum Ounce,oz t
-172,XSU,Sucre,S
-173,XTS,Codes specifically reserved for testing purposes,XTS
-174,XUA,East African shilling,EA
-175,XXX,The codes assigned for transactions where no currency is involved,
-176,YER,Yemeni Rial,ر.ي
-177,ZAR,South African Rand,R
-178,ZMW,Zambian Kwacha,ZK
-179,BYN,Belarusian ruble,Br
-180,IRT,Iranian toman,&#x062A;&#
-181,MRU,Mauritanian ouguiya,UM
-182,STN,S&atilde;o Tom&eacute; and Pr&iacute;ncipe dobra,Db
-183,UYU,Uruguayan peso,&#36;
-184,VES,Venezuelan bol&iacute;var,Bs.
-185,unk,unk,unknown
+﻿CurrencyKey,CurrencyName,CurrencySymbol
+N/A,Unknown,N/A
+AED,United Arab Emirates Dirham,د.إ
+AFN,Afghan Afghani,؋
+ALL,Albanian Lek,L
+AMD,Armenian Dram,֏
+ANG,Netherlands Antillean Guilder,ƒ
+AOA,Angolan Kwanza,Kz
+ARS,Argentine Peso,$
+AUD,Australian Dollar,$
+AWG,Aruban Florin,ƒ
+AZN,Azerbaijani Manat,₼
+BAM,Bosnia and Herzegovina Convertible Mark,KM
+BBD,Barbadian Dollar,$
+BDT,Bangladeshi Taka,৳
+BGN,Bulgarian Lev,лв
+BHD,Bahraini Dinar,د.ب
+BIF,Burundian Franc,FBu
+BMD,Bermudian Dollar,$
+BND,Brunei Dollar,$
+BOB,Bolivian Boliviano,Bs
+BRL,Brazilian Real,R$
+BSD,Bahamian Dollar,$
+BTC,Bitcoin ,฿
+BTN,Bhutanese Chhertum,Ch
+BWP,Botswana Pula,P
+BYR,Belarusian Ruble,Br
+BZD,Belize Dollar,$
+CAD,Canadian Dollar,$
+CDF,Congolese Franc,FC
+CHF,Swiss Franc,CHF
+CLP,Chilean Peso,$
+CNY,Chinese Renminbi,¥
+COP,Colombian Peso,$
+CRC,Costa Rican Colón,₡
+CUC,Cuban Convertible Peso,$
+CUP,Cuban Peso,$
+CVE,Cape Verdean Escudo,Esc
+CZK,Czech Koruna,Kč
+DJF,Djiboutian Franc,Fdj
+DKK,Danish Krone,kr
+DOP,Dominican Peso,$
+DZD,Algerian Dinar,د.ج
+EGP,Egyptian Pound,£
+ERN,Eritrean Nakfa,Nfk
+ETB,Ethiopian Birr,Br
+EUR,Euro,€
+FJD,Fijian Dollar,$
+FKP,Falkland Islands Pound,£
+GBP,British Pound,£
+GEL,Georgian Lari,ლ
+GGP,Guernsey Pound,£
+GHS,Ghanaian Cedi,₵
+GIP,Gibraltar Pound,£
+GMD,Gambian Dalasi,D
+GNF,Guinean Franc,FG
+GTQ,Guatemalan Quetzal,Q
+GYD,Guyanese Dollar,$
+HKD,Hong Kong Dollar,$
+HNL,Honduran Lempira,L
+HRK,Croatian Kuna,kn
+HTG,Haitian Gourde,G
+HUF,Hungarian Forint,Ft
+IDR,Indonesian Rupiah,Rp
+ILS,Israeli Shekel,₪
+IMP,Manx Pound,£
+INR,Indian Rupee,₹
+IQD,Iraqi Dinar,د.ع
+IRR,Iranian Rial,﷼
+ISK,Icelandic Króna,kr
+JEP,Jersey Pound,£
+JMD,Jamaican Dollar,$
+JOD,Jordanian Dinar,د.أ
+JPY,Japanese Yen,¥
+KES,Kenyan Shilling,Ksh
+KGS,Kyrgyzstani Som,с
+KHR,Cambodian Riel,៛
+KMF,Comorian Franc,FC
+KPW,North Korean Won,₩
+KRW,South Korean Won,₩
+KWD,Kuwaiti Dinar,د.ك
+KYD,Cayman Islands Dollar,$
+KZT,Kazakhstani Tenge,₸
+LAK,Lao Kip,₭
+LBP,Lebanese Pound,ل.ل
+LKR,Sri Lankan Rupee,₨
+LRD,Liberian Dollar,$
+LSL,Lesotho Loti,L
+LYD,Libyan Dinar,ل.د
+MAD,Moroccan Dirham,د.م
+MDL,Moldovan Leu,L
+MGA,Malagasy Ariary,Ar
+MKD,Macedonian Denar,ден
+MMK,Myanmar Kyat,K
+MNT,Mongolian Tögrög,₮
+MOP,Macanese Pataca,MOP
+MRO,Mauritanian Ouguiya,UM
+MUR,Mauritian Rupee,₨
+MVR,Maldivian Rufiyaa,ރ
+MWK,Malawian Kwacha,MK
+MXN,Mexican Peso,$
+MYR,Malaysian Ringgit,RM
+MZN,Mozambican Metical,MT
+NAD,Namibian Dollar,$
+NGN,Nigerian Naira,₦
+NIO,Nicaraguan Córdoba,C$
+NOK,Norwegian Krone,kr
+NPR,Nepalese Rupee,₨
+NZD,New Zealand Dollar,$
+OMR,Omani Rial,ر.ع
+PAB,Panamanian Balboa,B/.
+PEN,Peruvian Sol,S/.
+PGK,Papua New Guinean Kina,K
+PHP,Philippine Peso,₱
+PKR,Pakistani Rupee,₨
+PLN,Polish Zloty,zł
+PRB,Transnistrian Ruble,р.
+PYG,Paraguayan Guarani,₲
+QAR,Qatari Riyal,ر.ق
+RON,Romanian Leu,lei
+RSD,Serbian Dinar,дин
+RUB,Russian Ruble,₽
+RWF,Rwandan Franc,FRw
+SAR,Saudi Riyal,ر.س
+SBD,Solomon Islands Dollar,$
+SCR,Seychellois Rupee,₨
+SDG,Sudanese Pound,ج.س
+SEK,Swedish Krona,kr
+SGD,Singapore Dollar,$
+SHP,Saint Helena Pound,£
+SLL,Sierra Leonean Leone,Le
+SOS,Somali Shilling,S
+SRD,Surinamese Dollar,$
+SSP,South Sudanese Pound,£
+STD,São Tomé and Principe Dobra,Db
+SYP,Syrian Pound,ل.س
+SZL,Swazi Lilangeni,L
+THB,Thai Baht,฿
+TJS,Tajikistani Somoni,ЅМ
+TMT,Turkmenistan Manat,m
+TND,Tunisian Dinar,د. ت
+TOP,Tongan Pa?anga,T$
+TRY,Turkish Lira,₺
+TTD,Trinidad and Tobago Dollar,$
+TWD,New Taiwan Dollar,$
+TZS,Tanzanian Shilling,TSh
+UAH,Ukrainian Hryvnia,₴
+UGX,Ugandan Shilling,USh
+USD,United States Dollar,$
+USN,United States Dollar (next day),$
+USS,United States Dollar (same day),$
+USDT,United States Dollar (Tether),$
+USX,United States Dollar (XAU),$
+UYI,Uruguay Peso en Unidades Indexadas,$
+UYU ,Uruguayan Peso,$
+UZS,Uzbekistan Som,сўм
+VEF,Venezuelan Bolivar,Bs
+VND,Vietnamese Dong,₫
+VUV,Vanuatu Vatu,VT
+WST,Samoan Tala,T
+XAF,Central African CFA Franc,FCFA
+XAG,Silver Ounce,oz t
+XAU,Gold Ounce,oz t
+XBA,European Composite Unit,EURCO
+XBB,European Monetary Unit,EMT
+XBC,European Unit of Account (XBC),EU
+XBD,European Unit of Account (XBD),EU
+XCD,East Caribbean Dollar,$
+XDR,Special Drawing Rights,SDR
+XOF,West African CFA Franc,FCFA
+XPD,Palladium Ounce,oz t
+XPF,CFP Franc,₣
+XPT,Platinum Ounce,oz t
+XSU,Sucre,S
+XTS,Codes specifically reserved for testing purposes,XTS
+XUA,East African shilling,EA
+XXX,The codes assigned for transactions where no currency is involved,
+YER,Yemeni Rial,ر.ي
+ZAR,South African Rand,R
+ZMW,Zambian Kwacha,ZK
+BYN,Belarusian ruble,Br
+IRT,Iranian toman,&#x062A;&#
+MRU,Mauritanian ouguiya,UM
+STN,S&atilde;o Tom&eacute; and Pr&iacute;ncipe dobra,Db
+UYU,Uruguayan peso,&#36;
+VES,Venezuelan bol&iacute;var,Bs.
+unk,unk,unknown
