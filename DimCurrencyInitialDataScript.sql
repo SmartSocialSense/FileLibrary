@@ -364,8 +364,6 @@ INSERT [Dimension].[DimCurrency] VALUES (N'MRU', N'Mauritanian ouguiya', N'UM')
 GO
 INSERT [Dimension].[DimCurrency] VALUES (N'STN', N'São Tomé and Príncipe dobra', N'Db')
 GO
-INSERT [Dimension].[DimCurrency] VALUES (N'UYU', N'Uruguayan peso', N'&#36;')
-GO
 INSERT [Dimension].[DimCurrency] VALUES (N'VES', N'Venezuelan bolívar', N'Bs.')
 GO
 INSERT [Dimension].[DimCurrency] VALUES (N'unk', N'unk', N'unknown')
